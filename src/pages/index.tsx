@@ -8,7 +8,7 @@ const Map = dynamic(() => import('components/Map'), { ssr: false })
 export default function Home() {
   return (
     <>
-      <LinkWrapper href="/href">
+      <LinkWrapper href="/about">
         <InfoOutline size={32} arial-label="About" />
       </LinkWrapper>
       <Map />

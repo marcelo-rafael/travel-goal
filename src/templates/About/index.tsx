@@ -13,10 +13,10 @@ const AboutTemplate = () => (
 
     <S.Body>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia voluptas
-        tempore sequi? Facere, totam voluptate optio molestias nemo neque
-        deleniti dignissimos minus itaque, nobis deserunt. Velit porro beatae
-        nam ut!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
+        voluptatem corrupti est iusto accusantium excepturi deleniti a libero
+        quaerat quae reiciendis dolorum ipsam mollitia error debitis nisi,
+        dolorem quasi reprehenderit.
       </p>
     </S.Body>
   </S.Content>

@@ -2,12 +2,13 @@ import styled from 'styled-components'
 
 export const Content = styled.section`
   text-align: center;
+  display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   height: 100vh;
   max-width: var(--container);
-  margin: 0 auto;
+  margin: auto;
 `
 
 export const Heading = styled.h1`
@@ -16,10 +17,10 @@ export const Heading = styled.h1`
 `
 
 export const Body = styled.div`
-  // serve para estilos do Body
+  // serve para estilos do body
   // p, a, ul, li, blockquote
   p {
-    font-size: var(´medium);
+    font-size: var(--medium);
     line-height: var(--medium);
   }
 `
